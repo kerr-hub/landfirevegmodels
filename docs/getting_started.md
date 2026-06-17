@@ -45,7 +45,7 @@ Right-click on the Project datafeed (*i.e.*, **BpSModels**) and select **Open** 
 
 Open the Scenario datafeed (*i.e.*, the LANDFIRE BpS Reference Condition Models). Navigate to the **LANDFIRE vegetation models** tab, where you can provide further information about the model, including detailed **Succession Class Descriptions** and **Succession Class Mapping Rules**.
 
-<img align="middle" style="padding: 1px" width="500" src="assets/images/image-5">
+<img align="middle" style="padding: 1px" width="500" src="assets/images/image-5.png">
 
 <img align="middle" style="padding: 1px" width="500" src="assets/images/image-6.png">
 
@@ -53,6 +53,6 @@ Open the Scenario datafeed (*i.e.*, the LANDFIRE BpS Reference Condition Models)
 
 ## Learn more
 
-For documentation on the SyncroSim user interface see the SyncroSim [Getting Started](http://docs.syncrosim.com/getting_started/quickstart.html){:target="_blank"} page.
+For documentation on the SyncroSim user interface, see the SyncroSim [Getting Started](http://docs.syncrosim.com/getting_started/quickstart.html){:target="_blank"} page.
 
 **landfirevegmodels** runs on ST-Sim. For more information on ST-Sim, see its [documentation](http://docs.stsim.net/){:target="_blank"}.
